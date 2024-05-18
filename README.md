@@ -1,16 +1,28 @@
-### Hi there 👋
+_**Semi-Scientist, Psuedo-Engineer, Quasi-Photographer**_    
+Based in Seoul, Republic of Korea
 
-<!--
-**kim-jeong-jun/kim-jeong-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Ph.D candidate in Physics    
+_Quantum optics, Biophysics, Solid-state physics_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+### Programming language
+Python | _Numpy, Scipy, Matplotlib_    
+MATLAB    
+Julia    
+
+#### IDE
+PyCharm, VScode Studio    
+
+### Miscellanous
+Git (as Github)    
+Notion    
+Adobe | _Photoshop, Lightroom, Bridge_    
+Figma
+
+## Personal contact
+Google Scholar: https://scholar.google.com/citations?hl=en&user=6DwvVlUAAAAJ    
+ORCID: https://orcid.org/my-orcid?orcid=0009-0007-9083-4330     
+Researchgate: https://www.researchgate.net/profile/Jeong-Jun-Kim   
+LinkedIn: https://www.linkedin.com/in/jeong-jun-kim-639266119/    
+Mailto: snu.ac.kr, jj.kim 
