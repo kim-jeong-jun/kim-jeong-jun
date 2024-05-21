@@ -7,15 +7,12 @@ _Quantum optics, Biophysics, Solid-state physics_
 
 ## Tools
 ### Programming language
-Python | _Numpy, Scipy, Matplotlib_    
-MATLAB    
-Julia    
-
-#### IDE
-PyCharm, VScode Studio    
+**Python** | _Numpy, Scipy, Matplotlib_ in PyCharm   
+**MATLAB**    
+**Julia** in VScode Studio       
 
 ### Miscellanous
-Git (as Github)    
+**Git** as Github    
 Notion    
 Adobe | _Photoshop, Lightroom, Bridge_    
 Figma
