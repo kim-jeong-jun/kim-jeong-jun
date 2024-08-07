@@ -16,10 +16,3 @@ _Quantum optics, Biophysics, Solid-state physics_
 Notion    
 Adobe | _Photoshop, Lightroom, Bridge_    
 Figma
-
-## Personal contact
-Google Scholar: https://scholar.google.com/citations?hl=en&user=6DwvVlUAAAAJ    
-ORCID: https://orcid.org/my-orcid?orcid=0009-0007-9083-4330     
-Researchgate: https://www.researchgate.net/profile/Jeong-Jun-Kim   
-LinkedIn: https://www.linkedin.com/in/jeong-jun-kim-639266119/    
-Mailto: snu.ac.kr, jj.kim 
