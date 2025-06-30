@@ -2,7 +2,7 @@ _**Semi-Scientist, Psuedo-Engineer, Quasi-Photographer**_
 Based in Seoul, Republic of Korea
 
   Ph.D candidate in Physics    
-_Quantum optics, Biophysics, Solid-state physics_
+_Quantum optics, Solid-state physics_
 
 
 ## Tools
